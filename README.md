@@ -1,2 +1,2 @@
 # Toby_Gamez
-Popis
+Popis je fajn mít.
