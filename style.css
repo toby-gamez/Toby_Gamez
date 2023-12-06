@@ -1,0 +1,17 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 5rem;
+}
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+}
+.socials a {
+    text-decoration: none;
+}
+.socials i {
+    color: gray !important;
+}
